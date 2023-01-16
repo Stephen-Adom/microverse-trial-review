@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+input, select, textarea{
+  margin: 10px auto;
+  padding: 7px 0;
+  width: 100%;
+}
+
+checkboxes, .radio-buttons{
+  display: flex;
+  width: 20%;
+  
+}
